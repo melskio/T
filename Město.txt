@@ -1,0 +1,13 @@
+Na hlavní mìsto na ledovci (souøadnice 657:435) je potøeba pravidelnì posílat podpory - posílejte na 3 dny a po jejich návratu je pošlete, co nejdøíve zpìt.
+
+POZOR: Pokud z jakéhokoliv dùvodu odejdete z aliance a vrátite se zpìt, je NUTNÉ poslat podpory znovu!
+(Po odchodu z alince se podpory automaticky vrací na domovský hrad.)
+
+Posílejte v poètu uvedeném v tabulce a POUZE jednotky tam uvedené -  s jinými se nedá dobøe nastavit obrana.
+
+lvl1-59: neposílat jednotky
+lvl60-64: 100+100 kopijníkù-veteránù + lukostøelcù-veteránù
+lvl65-69: 150+150 kopijníkù-veteránù + lukostøelcù-veteránù
+lvl70: 150+150 halapartníkù veteránù + lukostøelcù s dlouhým lukem veteranù (po ukonèení výzkumu)
+          
+Místo tìchto jednotek mohou být poslány i královské stráže, ale žádné jiné neposílejte!          
